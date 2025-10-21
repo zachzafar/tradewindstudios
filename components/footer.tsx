@@ -4,7 +4,7 @@ export function Footer() {
       <div className="container mx-auto px-4 sm:px-6 lg:px-8 py-12">
         <div className="grid grid-cols-1 md:grid-cols-4 gap-8 mb-8">
           <div className="space-y-4">
-            <div className="font-mono text-xl font-bold text-foreground">&gt;tw/s&gt;</div>
+            <div className="font-mono text-xl font-bold text-foreground">&lt;tw/s&gt;</div>
             <p className="text-sm text-muted-foreground leading-relaxed">
               TradeWind Studios Inc.
               <br />
