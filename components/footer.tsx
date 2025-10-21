@@ -48,7 +48,7 @@ export function Footer() {
               </li>
               <li>
                 <a href="#projects" className="hover:text-accent transition-colors">
-                  Careisle
+                  CareIsle
                 </a>
               </li>
             </ul>
@@ -58,7 +58,7 @@ export function Footer() {
             <h3 className="font-semibold text-foreground mb-4">Contact</h3>
             <ul className="space-y-2 text-sm text-muted-foreground">
               <li>
-                <a href="mailto:contact@tradewindstudios.com" className="hover:text-accent transition-colors">
+                <a href="mailto:info@tradewindstudios.com" className="hover:text-accent transition-colors">
                   Email Us
                 </a>
               </li>

@@ -10,10 +10,10 @@ const projects = [
     link: "https://bookos.xyz",
   },
   {
-    name: "Careisle",
+    name: "CareIsle",
     tagline: "Healthcare Data Exchange Platform",
     description:
-      "A healthcare data platform that enables providers to securely share patient information across systems and facilities. Careisle connects EHRs, labs, and referrals to improve care coordination and data exchange in compliance with health data regulations.",
+      "A healthcare data platform that enables providers to securely share patient information across systems and facilities. CareIsle connects EHRs, labs, and referrals to improve care coordination and data exchange in compliance with health data regulations.",
     tags: ["Healthcare", "HIPAA", "Integration", "Security"],
     link: "https://careisle.health",
   },

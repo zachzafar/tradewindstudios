@@ -12,7 +12,7 @@ export function CTA() {
           </p>
           <div className="flex flex-col sm:flex-row items-center justify-center gap-4 pt-4">
             <a
-              href="mailto:contact@tradewindstudios.com"
+              href="mailto:info@tradewindstudios.com"
               className="inline-flex items-center justify-center gap-2 px-6 py-3 text-base font-medium text-primary bg-primary-foreground rounded-lg hover:bg-primary-foreground/90 transition-colors w-full sm:w-auto group"
             >
               Get in Touch
