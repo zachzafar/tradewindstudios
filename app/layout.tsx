@@ -12,6 +12,9 @@ export const metadata: Metadata = {
   description:
     "Navigating Digital Transformation with Precision and Purpose. CTO/CIO services, project management, system integration, and data security.",
   generator: "v0.app",
+  verification: {
+    google: "KmGX_lhVq-zIcQGQIKhEQByKkdf22JlZO4XHlXEF2Uw",
+  },
 }
 
 export default function RootLayout({
